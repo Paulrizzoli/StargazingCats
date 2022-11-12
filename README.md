@@ -1,2 +1,2 @@
 # StargazingCats
-Code to publish your NFT project on the Stargaze network.
+Code to publish your Metadata for a project on the Stargaze network.
